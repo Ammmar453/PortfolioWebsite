@@ -78,3 +78,32 @@ p {
 
 
 /* end of portfolio page links */
+
+
+
+
+
+.testimonials {
+  background-color: #f9f9f9;
+  padding: 40px 20px;
+  border-radius: 12px;
+}
+
+.testimonial {
+  margin-bottom: 20px;
+  padding: 20px;
+  border-left: 4px solid #4f46e5;
+  background-color: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.testimonial p {
+  font-style: italic;
+  color: #333;
+}
+
+.testimonial h4 {
+  margin-top: 10px;
+  color: #555;
+  font-weight: normal;
+}
