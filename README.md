@@ -19,7 +19,3 @@ I have  made sure paragraphs are short and welcoming
 made the use of headings to split sections 
 
 added Testimonials section to build trust
-
-
-
-test
