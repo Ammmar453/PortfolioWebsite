@@ -11,7 +11,7 @@ body {
   background-color: #3DA5DC !important;
 }
 
-/* hero image on index page, do no change  */
+/* hero image on index page, do not change  */
 .hero-image {
   height: 50%;
   background-position: center;
@@ -42,7 +42,7 @@ h2 {
 }
 
 h3 {
-  font-family: impact;
+  font-family: cooper black;
 }
 
 p {
@@ -82,7 +82,7 @@ p {
 
 
 
-
+/* testimonials on portfolio page */
 .testimonials {
   background-color: #f9f9f9;
   padding: 40px 20px;
