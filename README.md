@@ -1,10 +1,10 @@
 Outcome 3 & 4:
 
-I have updated all the images on the website so they are relevant to the topic. I have added alt tags to them to ensure a better accessibility score, thus helping SEO score also.
+I have updated all the images on the website, so they are relevant to the topic. I have added alt tags to them to ensure a better accessibility score, thus helping SEO score also.
 
 I have updated all my meta tags to ensure a high SEO score and so that my website ranks highly when searched for.
 
-I have updated my footer content so that the detaisl are accurate. 
+I have updated my footer content so that the details are accurate. 
 
 I have added a logo and favicon
 
