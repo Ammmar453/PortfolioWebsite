@@ -1,4 +1,4 @@
-Outcome 3 & 4:
+Outcome 3 & 4 –
 
 I have updated all the images on the website, so they are of high quality and relevant to the topic. I have added alt tags to them to ensure a better accessibility score, thus improving the SEO score also.
 
@@ -23,3 +23,5 @@ I have added a Testimonials section on the portfolio page to build trust with cu
 I have updated the external links that take customers to my previous work so that they can view the websites that I have created.
 
 I have also started with the most important information first on the index page. An introduction and why people should pick me is all at the start of the home page. 
+
+I have called attention to the headings by making use of high contrast, I have given the headings a background colour so that they stand out more. I have also done this with the link buttons so that they draw the users attention.
