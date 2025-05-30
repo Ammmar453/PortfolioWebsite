@@ -1,81 +1,106 @@
 /* Shows scrollbars, best to add so always has scrollbar on the side */
 body {
-  overflow: scroll;
+overflow-y: scroll;
 }
 
 .navbar {
-  background-color: #3DA5DC !important;
+background-color: #3DA5DC !important;
+color: white; 
+font-size: 20px;
+font-family: bahnschrift;
+}
+
+.navbar a {
+color: white;
+text-decoration: none;
+transition: color 0.3s ease;
+}
+
+.navbar a:hover {
+color: #3DDBAB; 
+}
+
+.navbar a.active {
+  background-color: #3DDBAB; 
+  color: #000000;
+  border-radius: 15px;
 }
 
 .footer {
-  background-color: #3DA5DC !important;
+background-color: #3DA5DC !important;
+color: white; 
 }
+
+/* Make all links inside footer white too */
+.footer a {
+color: white;
+text-decoration: none;
+transition: color 0.3s ease;
+}
+
+
+
 
 /* hero image on index page, do not change  */
 .hero-image {
-  height: 50%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
+height: 50%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
 }
 
 .mask {
-  border-radius: 15px;
+border-radius: 15px;
+background-color: rgba(0, 0, 0, 0.8);
 }
 
 /* end of hero image  */
 
 
+
 /* carousel controls, do not mess with these numbers, control width using bootstrap layout */
 /* .w-100{
-  aspect-ratio: 16/9;
+aspect-ratio: 16/9;
 } */
 
 
-h1 {
-  font-family: cooper black;
-}
-
-h2 {
-  font-family: cooper black;
-}
-
-h3 {
-  font-family: cooper black;
+/* Typogrophy */
+h1, h2, h3 {
+font-family: 'Cooper Black', serif;
 }
 
 p {
-  font-family: tahoma;
+font-family: tahoma, Geneva, sans-serif;
 }
 
 
 /* aspect ratio for portfolio images on the portfolio page  */
 
 .portfolioimg {
-  aspect-ratio: 16/9;
+aspect-ratio: 16/9;
 }
 
 /* portfolio page links */
 
 .portfolioLink:link,
 .portfolioLink:visited {
-  background-color: #3DA5DC;
-  color: white;
-  padding: 10px 15px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  border-radius: 10px;
+background-color: #3DA5DC;
+color: white;
+padding: 10px 15px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+border-radius: 10px;
+transition: background-color 0.3s, transform 0.2s;
 }
 
 .portfolioLink:hover,
 .portfolioLink:active {
-  background-color: #3DDBAB;
-  transition: transform .2s;
-  transform: scale(1.1);
+background-color: #3DDBAB;
+transition: transform .2s;
+transform: scale(1.1);
 }
-
 
 /* end of portfolio page links */
 
@@ -84,26 +109,35 @@ p {
 
 /* testimonials on portfolio page */
 .testimonials {
-  background-color: #f9f9f9;
-  padding: 40px 20px;
-  border-radius: 12px;
+background-color: #f9f9f9;
+padding: 40px 20px;
+border-radius: 12px;
 }
 
 .testimonial {
-  margin-bottom: 20px;
-  padding: 20px;
-  border-left: 4px solid #4f46e5;
-  background-color: #fff;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+margin-bottom: 20px;
+padding: 20px;
+border-left: 4px solid #4f46e5;
+background-color: #fff;
+box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
 }
 
 .testimonial p {
-  font-style: italic;
-  color: #333;
+font-style: italic;
+color: #333;
 }
 
 .testimonial h4 {
-  margin-top: 10px;
-  color: #555;
-  font-weight: normal;
+margin-top: 10px;
+color: #555;
+font-weight: normal;
+}
+
+
+.heading {
+background-color: #bae6fd; /* bolder soft blue */
+color: #1f2937;            
+border-radius: 10px;
+text-align: center;
+padding: 10px 15px;
 }
