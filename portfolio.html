@@ -23,9 +23,9 @@
 
 <body>
   <!-- navbar  -->
-  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <nav class="navbar navbar-expand-lg sticky-top navbar-dark bg-primary">
     <div class="container-fluid">
-      <a class="navbar-brand" href="index.html">Ammar Aslam</a>
+      <a class="navbar-brand" href="index.html"><img src="images/logo.svg" width="40px" height="40px" alt="Hi-Top Sneakers logo"></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -57,13 +57,12 @@
     <!-- <!-- this is my 1st row with text about my experience and an image -->
     <center>
       <br>
-      <h1>My Portfolio Websites</h1>
-      <h2>Check out my work!</h2>
-      <h3>Have a browse!</h3>
+      <h1>Creative & Engaging</h1>
+      <h2>Turning Ideas Into Interactive Reality</h2>
     </center>
     <div class="row">
       <div class="col-md-7 mt-3">
-        <h1 class = 'heading'>Work That Speaks</h1>
+        <h3 class = 'heading'>Benefits & features of my service</h3>
         <ul>
           <li>Clean, modern designs</li>
           <li>Real-world project examples</li>
@@ -117,20 +116,37 @@
 
     <!-- 3rd row that has Testimonials -->
     <div class="testimonials row mt-5">
-      <h1 class = 'heading'>Testimonials</h1>
-      <div class="testimonial">
-        <p>"Ammar is incredibly professional and delivered our website ahead of schedule. Highly recommended!"</p>
-        <h4>- Sarah L., Project Manager</h4>
-      </div>
+      <div class="col-md-8">
+        <h1 class = 'heading'>Testimonials</h1>
+        <div class="testimonial">
+          <p>"Ammar is incredibly professional and delivered our website ahead of schedule. Highly recommended!"</p>
+          <h4>- Sarah L., Project Manager</h4>
+        </div>
 
-      <div class="testimonial">
-        <p>"Working with Ammar was a smooth experience from start to finish. The end result exceeded our expectations."</p>
-        <h4>- James T., Startup Founder</h4>
-      </div>
+        <div class="testimonial">
+          <p>"Working with Ammar was a smooth experience from start to finish. The end result exceeded our expectations."</p>
+          <h4>- James T., Startup Founder</h4>
+        </div>
 
-      <div class="testimonial">
-        <p>"Ammar turned our vision into a sleek, functional website that truly reflects our brand. Couldn't be happier!"</p>
-        <h4>- Lina K., Creative Director</h4>
+        <div class="testimonial">
+          <p>"Ammar turned our vision into a sleek, functional website that truly reflects our brand. Couldn't be happier!"</p>
+          <h4>- Lina K., Creative Director</h4>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <h1 class = 'heading'>Get in Touch!</h1>
+        <form action="mailto:ec1403129@edinburghcollege.ac.uk" method="post" enctype="text/plain">
+          <label for="name">Name:</label><br>
+          <input type="text" id="name" name="name" required><br><br>
+        
+          <label for="email">Email:</label><br>
+          <input type="email" id="email" name="email" required><br><br>
+        
+          <label for="message">Message:</label><br>
+          <textarea id="message" name="message" rows="5" required></textarea><br><br>
+        
+          <button type="submit" class="contactButton">Submit</button>
+        </form>
       </div>
     </div>
 

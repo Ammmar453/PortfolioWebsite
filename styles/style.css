@@ -141,3 +141,24 @@ border-radius: 10px;
 text-align: center;
 padding: 10px 15px;
 }
+
+
+
+/* contact form on portfolio page */
+.contactButton {
+  background-color: #3DA5DC;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 10px;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.contactButton:hover,
+.contactButton:active {
+background-color: #3DDBAB;
+transition: transform .2s;
+transform: scale(1.1);
+}
