@@ -21,9 +21,9 @@ color: #3DDBAB;
 }
 
 .navbar a.active {
-  background-color: #3DDBAB; 
-  color: #000000;
-  border-radius: 15px;
+background-color: #3DDBAB; 
+color: #000000;
+border-radius: 15px;
 }
 
 .footer {
@@ -146,15 +146,15 @@ padding: 10px 15px;
 
 /* contact form on portfolio page */
 .contactButton {
-  background-color: #3DA5DC;
-  color: white;
-  padding: 10px 15px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  border-radius: 10px;
-  transition: background-color 0.3s, transform 0.2s;
-  border-color: transparent;
+background-color: #3DA5DC;
+color: white;
+padding: 10px 15px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+border-radius: 10px;
+transition: background-color 0.3s, transform 0.2s;
+border-color: transparent;
 }
 
 .contactButton:hover,
