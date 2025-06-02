@@ -13,7 +13,7 @@ General:
 
 - I have made use of bullet lists and added them to all my pages 
 
-- I have made use of headings to split up the sections on my pages
+- I have made use of headings to split up the sections on all my pages
 
 - I have made sure paragraphs are short and welcoming and omitted any unnecessary words so that we are left with only what is relevant for the website 
 
@@ -49,6 +49,10 @@ Index Page:
 
 About Me Page:
 
+- I have added a 'My Qualifications' section and updated the details to reflect the accurate information about myself
+
+- I have updated all the 'lorem ipsum' on this page and made sure it is all correct and relevant to the topic 
+
 
 
 Portfolio (Commercial) Page:
@@ -73,14 +77,30 @@ New page that I have created, and it contains the following -
 
 - A strong hook and a concise title
 
-- Good quality images and visuals 
+- Good quality images and graphics
 
 - Informative and educational content 
 
 - Links to external reliable sources
 
-- Internal links to pages on my website 
+- Internal links to pages on my website (my portfolio page)
 
-- SEO keywords
+- SEO keywords (updated and correct)
 
 - Social media sharing links (Twitter and LinkedIn)
+
+
+
+Website copywriting:
+
+- All my pages use plenty of headings, this has been done to split up the page and to summarise what the following content will be about
+
+- All my pages have bullet points as they allow the user to easily understand and store that information 
+
+- I have kept all my paragraphs short, no more than 3/4 sentences. Again, doing this makes the information easier to digest for the user. 
+
+- All the vital and important information is nearer the top and 'above the fold'. This allows the user to see that first and make an informed decision on if they want to read any further or not. 
+
+- I have called attention to many parts/sections of the website by highlighting headings and creating a high contrast. This was also achieved by using heading tags as they stand out more and draw the user’s attention to that specific section.
+
+- I have kept the words to a minimum on this website, I have spoken about my experience and why customers should pick me. The words on the website give more details about me and what I do.
